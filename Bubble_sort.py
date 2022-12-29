@@ -1,3 +1,4 @@
+# Bubble sort
 lst = [ 5,3,8,6,7,2 ]
 temp = 0
 n = len(lst)
