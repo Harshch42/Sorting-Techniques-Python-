@@ -1,4 +1,4 @@
-# Bubble sort
+# Bubble sort ( Swap 2 elements iteratively starting from 1st 2 elements , Typically we iterate n-1 times)
 lst = [ 5,3,8,6,7,2 ]
 temp = 0
 n = len(lst)
