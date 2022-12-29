@@ -1,3 +1,4 @@
+#Selection Sort ( Take the minimum element of the array and swap it with the 1st element and move to the next element untill sorted )
 lst = [ 5,3,8,6,7,2 ]
 temp = 0
 n = len(lst)
